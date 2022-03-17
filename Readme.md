@@ -64,9 +64,9 @@ We run the data and statistical analysis on Windows 10 and the described workflo
   * Now run the image. A running Docker image is called Docker container.
   * The running image will now be listed when you click in the left menu bar on *Containers/Apps*
   * Click on the `>_` symbol that opens a Docker console from the image and then run the following code:
-    + Rscript -e "rmarkdown::render('prosocial-pigs-calibration.Rmd')"
-    + Rscript -e "rmarkdown::render('prosocial-pigs-behavior.Rmd')"
-    + Rscript -e "rmarkdown::render('prosocial-pigs-hormones.Rmd')"
+    + `Rscript -e "rmarkdown::render('prosocial-pigs-calibration.Rmd')"`
+    + `Rscript -e "rmarkdown::render('prosocial-pigs-behavior.Rmd')"`
+    + `Rscript -e "rmarkdown::render('prosocial-pigs-hormones.Rmd')"`
  
  4. RESULTS
  
