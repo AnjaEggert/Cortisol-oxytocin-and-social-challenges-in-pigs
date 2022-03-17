@@ -60,7 +60,7 @@ We run the data and statistical analysis on Windows 10 and the described workflo
 5. RUNNING DOCKER IMAGE = CONTAINER
 
   * Change to Docker Desktop and click in the left menu bar on *Images*. The just created `pigs-image` is listed.
-  * Click on the blue arrow to RUN the pigs-image. Check “Optional settings” and set Host Path (`D:\user\Documents\Docker-prosocial-pigs`) and Container Path (`/opt/Docker-prosocial-pigs`).
+  * Click on the blue arrow to run the `pigs-image`. Check “Optional settings” and set Host Path (`D:\user\Documents\Docker-prosocial-pigs`) and Container Path (`/opt/Docker-prosocial-pigs`).
   * Now run the image. A running Docker image is called Docker container.
   * The running image will now be listed when you click in the left menu bar on *Containers/Apps*
   * Click on the `>_` symbol that opens a Docker console from the image and then run the following code:
