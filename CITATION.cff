@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Moscovice
+    given-names: Liza R.
+    orcid: https://orcid.org/0000-0002-1823-7757
+  - family-names: Gimsa
+    given-names: Ulrike
+    orcid: https://orcid.org/0000-0003-2248-5793
+  - family-names: Eggert
+    given-names: Anja
+    orcid: https://orcid.org/0000-0003-3893-6851
+title: "Cortisol-oxytocin-and-social-challenges-in-pigs"
+version: 0.1
+doi: 
+date-released: 2022-03-17
