@@ -3,7 +3,7 @@
 This repository contains data and source code to reproduce the data and statistical analysis and figures in the manuscript:
 
 Salivary cortisol, but not oxytocin, varies with social challenges in domestic pigs: Implications for measuring emotions
-by Liza R. Moscovice, Ulrike Gimsa, Anja Eggert
+by Liza R. Moscovice, Ulrike Gimsa, Winfried Otten, Anja Eggert
 
 Research Institute for Farm Animal Biology (FBN), Dummerstorf, Germany 
 
